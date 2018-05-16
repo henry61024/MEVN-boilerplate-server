@@ -25,3 +25,6 @@ package-lock.json
 *.ntvs*
 *.njsproj
 *.sln
+
+# client bundled codes
+/public/
