@@ -26,5 +26,5 @@ package-lock.json
 *.njsproj
 *.sln
 
-#client source
+# client bundled codes
 /public/
