@@ -1,4 +1,4 @@
-const db = require('../models'),
+const db = require('../services/index'),
       usersDb = db.Users
 
 exports.readAll = (request, response) => {
