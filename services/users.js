@@ -1,5 +1,5 @@
 const models = require('../models/index'),
-      User = models.Users
+      User = models.User
 
 exports.create = (obj) => {
     const user = new User(obj)
